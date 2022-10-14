@@ -85,7 +85,7 @@ bagrec -p
 
 ### メインウィンドウ
 
-### 記録するトピック (recording topics)
+#### 記録するトピック (recording topics)
 ここから記録するトピックを選択してください。
 
 #### 記録のための設定 (settings for recording)
