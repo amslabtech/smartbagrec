@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(
     name="smartbagrec",
@@ -6,8 +6,8 @@ setup(
     license="MIT",
     description="GUI based application to record rosbag files.",
     author="Yasunori Hirakawa",
-    url="https://github.com/YasunoriHirakawa/smartbagrec.git",
-    packages=["smartbagrec"],
+    url="https://github.com/amslabtech/smartbagrec.git",
+    packages=find_packages(),
     entry_points={
         "console_scripts": [
             "bagrec = smartbagrec.bagrec:main"
