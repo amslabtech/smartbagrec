@@ -6,9 +6,9 @@ import tkinter as tk
 from tkinter import filedialog, ttk
 from typing import List, Tuple
 
-from modules.widgets import (Button, Checkbutton, Entry, Frame, Label,
-                             Labelframe, MainWindow, ModalWindow, Pos,
-                             Radiobutton, ScrollableListbox)
+from .widgets import (Button, Checkbutton, Entry, Frame, Label,
+                     Labelframe, MainWindow, ModalWindow, Pos,
+                     Radiobutton, ScrollableListbox)
 
 
 class SmartBagRec(MainWindow):

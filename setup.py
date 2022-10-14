@@ -1,5 +1,6 @@
 from setuptools import setup, find_packages
 
+print(find_packages())
 setup(
     name="smartbagrec",
     version="1.0",
@@ -10,7 +11,7 @@ setup(
     packages=find_packages(),
     entry_points={
         "console_scripts": [
-            "bagrec = smartbagrec.bagrec:main"
+            "bagrec = smartbagrec_cli.bagrec:main"
         ]
     }
 )

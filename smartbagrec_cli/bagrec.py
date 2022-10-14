@@ -2,7 +2,7 @@
 
 
 from argparse import ArgumentParser
-from modules.contents import SmartBagRec
+from smartbagrec.contents import SmartBagRec
 
 
 def main() -> None:
