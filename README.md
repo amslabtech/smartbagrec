@@ -1,6 +1,6 @@
 # smartbagrec
 
-日本語は[こちら](https://github.com/amslabtech/smartbagrec/master/README.md#%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
+日本語は[こちら](https://github.com/amslabtech/smartbagrec#%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
 
 ### Install
 ```sh
