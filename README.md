@@ -97,7 +97,7 @@ bagrec -p
 #### 保存モード選択
 bagfileの保存方法を選択します。
 - save to current dir
-  - bagfileを bagrec を実行したディレクトリに保存します
+  - bagfileを `bagrec` を実行したディレクトリに保存します
   - ファイル名はタイムスタンプから付与されます
 - set prefix
   - bagfileを `bagrec` を実行したディレクトリに保存します
